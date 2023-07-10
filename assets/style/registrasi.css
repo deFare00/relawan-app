@@ -1,13 +1,13 @@
 label{ 
-    border-radius: 50px;
-    padding: 10px 20px;
-    background-color: #f2f2f2;
-    display: inline-block;
+    /* border-radius: 50px; */
+    /* padding: 10px 20px; */
+    /* background-color: #f2f2f2; */
+    /* display: inline-block; */
 }
 
-input[type="text"]
-input[type="email"]
-input[type="tel"]
+input[type="text"], 
+input[type="email"], 
+input[type="tel"], 
 input[type="password"],
 select{
     border-radius: 5px;
