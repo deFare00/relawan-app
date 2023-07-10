@@ -13,6 +13,7 @@
   border-color: red;
   background-color: red;
   color: white;
+  font-weight: 600;
 }
 
 .btn-1:hover {
@@ -30,6 +31,7 @@
   border-color: white;
   background-color: #0C1F47;
   color: white;
+  font-weight: 600;
 }
 
 .btn-2:hover {
